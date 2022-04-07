@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SeanDoesData
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m usually always building on Data Analysis techniques and skills.
-- 💞️ I’m looking to collaborate on projects related to improving life for the proletariat.
-- 📫 How to reach me ...
+- 👀 I'm just a young, astrology loving Harlem native who just happens to be a Graduate for the Google Data Analytics Professional Certificate.
+- 🌱 So you'll probably see the usual suspects on this page, y'know, Excel, G-Sheets, R, Tableau, maybe some Python! 
+- 💞️ I’m usually always building on Data Analysis techniques and skills, cause... well, why else would I have a Professional Certificate in it?
+
 
 <!---
 SeanDoesData/SeanDoesData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
